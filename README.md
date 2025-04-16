@@ -24,6 +24,11 @@
             text-align: center;
             margin-top: 20px;
             font-size: smaller;
+               a {
+            color: #007bff;
+            text-decoration: none;
+               a:hover {
+            text-decoration: underline;
            </style>
 </head>
 <body>
@@ -68,8 +73,13 @@
     </ul>
 </section>
 
+<section>
+    <h2>Kontakt</h2>
+    <p>Pokud máte jakékoli dotazy nebo potřebujete pomoc, neváhejte nás kontaktovat na našem <a href="https://discord.gg/QG72d8yy" target="_blank">Discordu</a> nebo přímo na serveru.</p>
+</section>
+
 <footer>
-    <p>Pokud máte jakékoli dotazy nebo potřebujete pomoc, neváhejte nás kontaktovat na našem Discordu nebo přímo na serveru.</p>
+    <p>Doufáme, že se na našem serveru uvidíme brzy!</p>
 </footer>
 
 </body>
